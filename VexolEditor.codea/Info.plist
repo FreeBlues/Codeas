@@ -6,7 +6,7 @@
 	<string>Unknown</string>
 	<key>Buffer Order</key>
 	<array>
-		<string>main</string>
+		<string>Main</string>
 		<string>Model</string>
 		<string>Camera</string>
 		<string>Ui</string>
